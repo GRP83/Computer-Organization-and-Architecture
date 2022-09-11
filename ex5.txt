@@ -1,0 +1,7 @@
+Programa em assembly do MIPS que realiza um procedimento para calcular o fatorial de um número inteiro fornecido pelo usuário. 
+As multiplicações são realizadas através do método de somas sucessivas. 
+No final o resultado é exibido na tela.
+
+Foram criadas funções para guardar os valores e uso das variáveis temporárias, 
+para realizar as condições para o cálculo do fatorial e também para somas sucessivas, 
+retornando posteriormente para a main com linhas de código responsáveis pela interação com o usuário!
